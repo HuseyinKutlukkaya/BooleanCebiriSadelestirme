@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev1_son", "odev1_son\odev1_son.csproj", "{08E16F67-7F93-4900-9152-BF2B720FE1A7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HuseyinKutlukkayaOdev", "HuseyinKutlukkayaOdev\HuseyinKutlukkayaOdev.vdproj", "{EEE5D8D0-588D-44A7-8FE8-7B575CFE31F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E16F67-7F93-4900-9152-BF2B720FE1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E16F67-7F93-4900-9152-BF2B720FE1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E16F67-7F93-4900-9152-BF2B720FE1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E16F67-7F93-4900-9152-BF2B720FE1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE5D8D0-588D-44A7-8FE8-7B575CFE31F9}.Debug|Any CPU.ActiveCfg = Debug
+		{EEE5D8D0-588D-44A7-8FE8-7B575CFE31F9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
